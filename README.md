@@ -1,13 +1,14 @@
 ## Seaborn Visualization Techniques 
 
 Current jupyter notebook is divided in 5 parts:
-- Numerical Data Ploting
-- Categorical Data Ploting
-- Visualizing distributon of the data
-- Linear Regression and Relationship
-- Controlling ploted figure aesthetics
+* Numerical Data Ploting: relplot, scatterplot, lineplot
+* Categorical Data Ploting: catplot, boxplot, stripplot, swarmplot
+* Visualizing distributon of the data: distplot, kdeplot, jointplot, rugplot
+* Linear Regression and Relationship: regplot, lmplot
 
-Seaborn Datasets used:
+* Controlling ploted figure aesthetics: figure and axes styling, color palettes 
+
+Used Datasets:
 - Tips
 - FMRI
 - Iris
